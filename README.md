@@ -2,6 +2,11 @@
 
 ### Table Of Content
   - [Project Overview](#project-overview)
+  - [Data Source](data-source)
+  - [Data cleaning and Preparation](data-cleaning-and-preparation)
+  - [Exploratory Data Analysis](exploratory-data-analysis)
+  - [Result / findings](result-/-findings)
+  - [Recommendation](recommendtion)
   
 ### Tools
 - Excel for data cleaning and analysis 
@@ -11,7 +16,7 @@ This data analysis project aims to provide insights into the sales performance o
 past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations,and gain a deeper understanding of the company's performance.
 
 ### Data Source
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "TNMTretailsales.csv" file, containing detailed information about each sale made by the company.
   - [Download Here](https://import.cdn.thinkific.com/507876/courses/2143833/TNMTRetailsalesdocforCapstoneProject-230126-094456.xlsx)
 
 ### Data Cleaning and preparation
@@ -22,9 +27,9 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
   - What is the overall sales trend?
-  - state by revenue showing their population and median income per state
+  - State by revenue showing their population and median income per state
   - Revenue by product
-  - revenue contribution (%) of the product categories
+  - Revenue contribution (%) of the product categories
   - Revenue by  Sales Team
 
 ### Result / findings
